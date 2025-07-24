@@ -1,7 +1,0 @@
-pandas
-matplotlib
-seaborn
-jupyter
-sqlalchemy
-duckdb
-notebook
